@@ -75,17 +75,6 @@ php artisan migrate
     Validación de datos en todas las peticiones
     Protección CSRF
     Manejo de permisos por usuario
-    
-task-manager/
-├── app/
-│   ├── Http/Controllers/
-│   ├── Models/
-│   └── Providers/
-├── database/
-│   └── migrations/
-├── routes/
-│   └── api.php
-└── tests/
 
 🧪 Pruebas
 Para ejecutar las pruebas:
